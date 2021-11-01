@@ -6,3 +6,7 @@ For example:
 
 - 2021-10-15 18:00 Worked for 1 hour. I have done:
   - *List the things you have done.*
+
+  28/10 2h
+  29/10 30min
+  1/11 2h

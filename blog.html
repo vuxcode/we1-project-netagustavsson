@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-	<title>The Gossip Woman</title>
-	<style>
+<head>
+  <title>The Gossip Woman</title>
+  <style>
 	body {
 		background:lightpink;
 		color: slategray;
@@ -13,9 +14,41 @@
 		width: 200px;
 		margin: 10 auto;
 	}
-
-	>
-
-		
+	a {
+      color: red;
+    }
+    li a {
+      color: red;
+    }
+    ul {
+      background: black;
+      list-style-type: none;
+      margin: 0;
+      overflow: hidden;
+      padding: 0;
+    }
+    li {
+      float: center;
+    }
+    li a {
+      display: block;
+      color: white;
+      padding: 16px;
+      text-align: center;
+      text-decoration: none;
+    }
+    li a:hover {
+      background-color: pink;
+    }
 	</style>
+</head>
+<body>
+  <div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="blog.html">Gossip</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    <ul>
+  </div>	
+</body>
 </html>

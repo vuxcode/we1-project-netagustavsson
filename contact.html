@@ -2,39 +2,57 @@
 <html>
 <head>
 	<title>Contact Me</title>
+	<style>
+	    body {
+        background-color: lightpink;
+        color: slategray;
+        margin: 10 auto;
+      }
+      a {
+        color: red;
+      }
+      li a {
+        color: red;
+      }
+      ul {
+        background: black;
+        list-style-type: none;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+      }
+      li {
+        float: center;
+      }
+      li a {
+        display: block;
+        color: white;
+        padding: 16px;
+        text-align: center;
+        text-decoration: none;
+      }
+      li a:hover {
+        background-color: pink;
+      }
+
+  </style>
 </head>
 <body>
-	<div class="container">
-		<div class="contact-box">
-			<div class="left"></div>
-			<div class="right"></div>
-			<h2>Contact Me</h2>
-			<input type="text" class="field" placeholder=" Your Name"><br>
-			<input type="email" class="field" placeholder="Your Email"><br>
-			<input type="text" class="field" placeholder="Your Phone"><br>
-     		<textarea class="field" placeholder="Massage"></textarea><br>
-			<input typr="submit" value="Send">	
-	    </div>
-      </div>
-    </div>
-	<section class=" home">
-		<div class="home">
-			<h2>home</h2>
-	</section>	
-	<section class="info">
-		<div class="info"></div>
-		<p>Hi my name is Neta and this is my personal blog. In this blog you can follow my life style and my personal life. I will write and put up pictures, hope you will enjoy it!</p>
-	</div>
-	<div class="contact">
-		<div class="contactInfo">
-			<div class="box">
-				<div class="icon"></div>
-				<div class="text">
-					<h3><email>neta.gustavsson@hotmail.com</email></h3>
-					<p>54152 Skovde <br>Sweden</p>
-				</div>
-			</div>
-		</div>
-	<section class="contact"></section>	
+	<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="blog.html">Gossip</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  <ul>
+  <form action="" method="POST">
+  	<fieldset>
+  		<legend>Contact</legend>
+  		<label for="name">Name</label><br>
+  		<input id="name" type="name"><br>
+  		<label for="email">Email</label><br>
+  		<input id="email" type="email"><br>
+      <label for="message">Spill the tea!</label><br>
+      <textarea id="message" name="message" rows="5"></textarea><br>
+  	</fieldset>
+  	<input type="submit" value="Send">
 </body>
 </html>

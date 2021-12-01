@@ -17,4 +17,4 @@ For example:
 - 24/11 10:20 - 11:30 " change the index,blog and contact side"
 - 29/11 11:10 - 11:28 " change in the index code but only in the blogsida"
 - 29/11 17:10 - 17-50 " change the blog pic size and other things"
-- 1/12 10:20 - 11-15
+- 1/12 10:20 - 11-15 " change stuff in blog picture and other stuff" 

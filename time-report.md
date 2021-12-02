@@ -18,3 +18,4 @@ For example:
 - 29/11 11:10 - 11:28 " change in the index code but only in the blogsida"
 - 29/11 17:10 - 17-50 " change the blog pic size and other things"
 - 1/12 10:20 - 11-15 " change stuff in blog picture and other stuff" 
+- 2/12 13:10 - 13:30 " fixed the img and put them in center" 

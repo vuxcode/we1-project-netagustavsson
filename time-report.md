@@ -20,3 +20,4 @@ For example:
 - 1/12 10:20 - 11-15 " change stuff in blog picture and other stuff" 
 - 2/12 13:10 - 13:30 " fixed the img and put them in center" 
 - 6/12 11:10--11:29 " posted a blog post" 
+- 20/12 14:00- 14: 30 " change the  JPG file and showed the changeds"

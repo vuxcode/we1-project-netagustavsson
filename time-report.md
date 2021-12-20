@@ -21,3 +21,4 @@ For example:
 - 2/12 13:10 - 13:30 " fixed the img and put them in center" 
 - 6/12 11:10--11:29 " posted a blog post" 
 - 20/12 14:00- 14: 30 " change the  JPG file and showed the changeds"
+- 20/12 16:40-16:40 " change the index picture procent"
